@@ -1,5 +1,5 @@
-SUDO_USERNAME = "admin"
-SUDO_PASSWORD = "admin"
+SUDO_USERNAME = "admin1"
+SUDO_PASSWORD = "admin2"
 
 XRAY_HOSTS = "AC@127.0.0.1
 sd@text.ir"
